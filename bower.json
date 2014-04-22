@@ -1,0 +1,18 @@
+{
+  "name": "angular-modules-seed",
+  "version": "0.0.0",
+  "authors": [
+    "jorgeferrando <jorgeparent@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.10"
+  }
+}
