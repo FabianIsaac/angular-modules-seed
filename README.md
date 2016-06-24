@@ -1,4 +1,4 @@
-angular-modules-seed
+angular-modules-seed (jorgeferrando)
 ====================
 
-A seed to start an angularjs app using modules
+Una plantilla simple para iniciar un proyecto modular con angularjs
