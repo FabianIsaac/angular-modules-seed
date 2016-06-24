@@ -1,0 +1,27 @@
+{
+  "name": "angular-modules-seed",
+  "version": "1.0.0",
+  "description": "Plantilla de inicio rapido para aplicaciones modulares basadas en AngularJS ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FabianIsaac/angular-modules-seed.git"
+  },
+  "keywords": [
+    "AngularJS"
+  ],
+  "author": "FabianIsaac <fabian.quintanilla03@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "angular": "~1.5.7",
+    "angular-ui-router": "~0.2.15",
+    "requirejs": "~2.1.11"
+  },
+  "bugs": {
+    "url": "https://github.com/FabianIsaac/angular-modules-seed/issues"
+  }
+}
